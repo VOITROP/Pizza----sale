@@ -1,6 +1,6 @@
 # Pizza Order — Phân tích doanh thu và kiểm thử báo cáo bán hàng
 
-**Dự án cá nhân | Ecommerce Intern | SQL Server · Power BI**
+**Dự án cá nhân | SQL Server · Power BI**
 
 ## Bài toán
 
